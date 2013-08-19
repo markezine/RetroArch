@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retroarch Reborn</string>
+    <string name="action_settings">Settings</string>
+    <string name="installed_cores">Installed cores</string>
+    <string name="available_cores">Cores available for download</string>
+    <string name="core_name">Core Name</string>
+    <string name="system_name">System Name</string>
+    <string name="core_list_title">Core List Title</string>
+</resources>

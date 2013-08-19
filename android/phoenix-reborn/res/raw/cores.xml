@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <core>
+        <id>mednafenvb</id>
+        <package>org.retroarch.reborn.cores.mednafenvb</package>
+        <name>Mednafen VB</name>
+        <system>Virtual Boy</system>
+    </core>
+    <core>
+        <id>modelviewer</id>
+        <package>org.retroarch.reborn.cores.modelviewer</package>
+        <name>Model Viewer</name>
+        <system>Objects</system>
+    </core>
+    <core>
+        <id>mame2003</id>
+        <package>org.retroarch.reborn.cores.mame2003</package>
+        <name>MAME 2003 (0.78)</name>
+        <system>Multi Machine Arcade Emulator</system>
+    </core>
+    <core>
+        <id>snes9xnext</id>
+        <package>org.retroarch.reborn.cores.snes9xnext</package>
+        <name>SNES9x Next</name>
+        <system>Super Nintendo</system>
+    </core>
+    <core>
+        <id>scenewalker</id>
+        <package>org.retroarch.reborn.cores.scenewalker</package>
+        <name>Scene Walker</name>
+        <system>Objects</system>
+    </core>
+    <core>
+        <id>instancingviewer</id>
+        <package>org.retroarch.reborn.cores.instancingviewer</package>
+        <name>Instancing Viewer</name>
+        <system>Images</system>
+    </core>
+    <core>
+        <id>nxengine</id>
+        <package>org.retroarch.reborn.cores.nxengine</package>
+        <name>NXEngine</name>
+        <system>Cave Story/Doukutsu Monogatari</system>
+    </core>
+    <core>
+        <id>picodrive</id>
+        <package>org.retroarch.reborn.cores.picodrive</package>
+        <name>Picodrive</name>
+        <system>Sega Genesis/Sega CD/Master System/32X</system>
+    </core>
+    <core>
+        <id>pcsxrearmedneon</id>
+        <package>org.retroarch.reborn.cores.pcsxrearmedneon</package>
+        <name>PCSX reARMed (NEON)</name>
+        <system>Playstation 1</system>
+    </core>
+    <core>
+        <id>pcsxrearmed</id>
+        <package>org.retroarch.reborn.cores.pcsxrearmed</package>
+        <name>PCSX reARMed</name>
+        <system>Playstation 1</system>
+    </core>
+    <core>
+        <id>mednafenpcefast</id>
+        <package>org.retroarch.reborn.cores.mednafenpcefast</package>
+        <name>Mednafen PCE-fast</name>
+        <system>PC Engine/PC Engine CD</system>
+    </core>
+    <core>
+        <id>mednafenwswan</id>
+        <package>org.retroarch.reborn.cores.mednafenwswan</package>
+        <name>Mednafen WSwan</name>
+        <system>Wonderswan</system>
+    </core>
+    <core>
+        <id>bsnes</id>
+        <package>org.retroarch.reborn.cores.bsnes</package>
+        <name>bsnes/higan Performance</name>
+        <system>Nintendo NES</system>
+    </core>
+    <core>
+        <id>fceumm</id>
+        <package>org.retroarch.reborn.cores.fceumm</package>
+        <name>FCEUmm</name>
+        <system>Nintendo NES</system>
+    </core>
+    <core>
+        <id>finalburnalpha</id>
+        <package>org.retroarch.reborn.cores.finalburnalpha</package>
+        <name>Final Burn Alpha</name>
+        <system>Arcade(CPS-1, CPS-2, CPS-3, Neogeo)</system>
+    </core>
+    <core>
+        <id>desmume</id>
+        <package>org.retroarch.reborn.cores.desmume</package>
+        <name>Desmume</name>
+        <system>Nintendo DS</system>
+    </core>
+    <core>
+        <id>gambatte</id>
+        <package>org.retroarch.reborn.cores.gambatte</package>
+        <name>Gambatte</name>
+        <system>GameBoy/GameBoy Color</system>
+    </core>
+    <core>
+        <id>genesisplusgx</id>
+        <package>org.retroarch.reborn.cores.genesisplusgx</package>
+        <name>Genesis Plus GX</name>
+        <system>Sega Genesis/Sega CD/Master System</system>
+    </core>
+    <core>
+        <id>stella</id>
+        <package>org.retroarch.reborn.cores.stella</package>
+        <name>Stella</name>
+        <system>Atari 2600</system>
+    </core>
+    <core>
+        <id>mednafenpsx</id>
+        <package>org.retroarch.reborn.cores.mednafenpsx</package>
+        <name>Mednafen PSX</name>
+        <system>Playstation 1</system>
+    </core>
+    <core>
+        <id>vbanext</id>
+        <package>org.retroarch.reborn.cores.vbanext</package>
+        <name>VBA Next</name>
+        <system>GameBoy Advance</system>
+    </core>
+    <core>
+        <id>prboom</id>
+        <package>org.retroarch.reborn.cores.prboom</package>
+        <name>prBoom</name>
+        <system>DOOM</system>
+    </core>
+    <core>
+        <id>nestopia</id>
+        <package>org.retroarch.reborn.cores.nestopia</package>
+        <name>Nestopia</name>
+        <system>Nintendo NES</system>
+    </core>
+    <core>
+        <id>tyrquake</id>
+        <package>org.retroarch.reborn.cores.tyrquake</package>
+        <name>Tyrquake</name>
+        <system>Quake 1</system>
+    </core>
+    <core>
+        <id>snes9x</id>
+        <package>org.retroarch.reborn.cores.snes9x</package>
+        <name>SNES9x</name>
+        <system>Super Nintendo</system>
+    </core>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="CORE_LIST_TITLE">core list title</string>
+    <string name="CORE_LIST_ITEM">Core List Item</string>
+</resources>
